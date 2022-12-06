@@ -1,0 +1,20 @@
+{
+  "name": "iphigenia-in-aulis",
+  "version": "1.0",
+  "description": "",
+  "main": "data.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a7sc11u/iphigenia-in-aulis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a7sc11u/iphigenia-in-aulis/issues"
+  },
+  "homepage": "https://github.com/a7sc11u/iphigenia-in-aulis#readme"
+}
